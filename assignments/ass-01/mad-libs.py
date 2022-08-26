@@ -1,0 +1,23 @@
+noun1 = input("Enter a noun: ")
+place1 = input("Enter a place: ")
+adjective1 = input("Enter an adjective: ")
+noun2 = input("Enter a noun: ")
+noun3 = input("Enter a noun: ")
+animal1 = input("Enter an animal: ")
+verb1 = input("Enter a verb ending in -ing: ")
+noun4 = input("Enter a plural noun: ")
+noun5 = input("Enter a plural noun: ")
+adjective2 = input("Enter an adjective: ")
+noun6 = input("Enter a plural noun: ")
+article = input("Enter an article of clothing: ")
+adjective3 = input("Enter an adjective: ")
+
+print("Where can you meet a nice, normal ",noun1, " to date? Sure, there are traditional avenues like the workplace or the ",place1, 
+" but here are some other creative, ",adjective1, " ways:")
+
+print("-Show off your awesome athletic skills by joining a/an ",noun2,"-ball team at the rec center")
+print("- Walk your favorite four-legged ",noun3, " at the local ",animal1, " park.")
+print("- Attend a/an ",verb1, " class at a community college.")
+print("- Look for antique ",noun4, " for your collection at a flea market.")
+print("- Suggestively squeeze the largest, juiciest", noun5, "while exploring the ", adjective2, "farmers' market.")
+print("- Do cardio or lift ", noun6, " at the gym in your tighest ", article, "- you'll fell fit and look ", adjective3,"!)")
